@@ -1,2 +1,2 @@
 # bookbot
-experimental
+experimental project to familiarize
